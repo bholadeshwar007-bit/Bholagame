@@ -1,0 +1,19 @@
+{
+  "background_color": "rgb(180, 166, 166)",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "bhola game",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "bholagame",
+  "start_url": "/",
+  "theme_color": "rgb(88, 171, 175)",
+  "categories": [
+    "games",
+    "graphics",
+    "sports"
+  ],
+  "id": "Deshwar game",
+  "description": "Bhola Cricket Game - Play realistic cricket on mobile and browser.",
+  "lang": "en"
+}
